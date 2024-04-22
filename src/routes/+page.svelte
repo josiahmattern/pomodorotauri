@@ -1,6 +1,6 @@
 <script>
 	import { writable } from 'svelte/store';
-	import { onDestroy, onMount } from 'svelte';
+	import { onDestroy } from 'svelte';
 	import Settings from '../components/Settings.svelte';
 
 	// Create writable stores for settings
