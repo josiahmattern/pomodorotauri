@@ -7,4 +7,4 @@ npm install
 npm run tauri dev
 ```
 
-or you can install one of the release builds. This is my first attempt using tauri, and nothing is actually coded in rust, but I plan to change that in the future.
+This is my first attempt using tauri, and nothing is actually coded in rust, but I plan to change that in the future.
